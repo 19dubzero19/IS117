@@ -13,8 +13,8 @@
     background: #005983;
 }
 body {
-    background: repeating-linear-gradient(45deg, #e66465, #e66465 20px, #9198e5 20px, #9198e5 40px),
-                repeating-linear-gradient(-45deg, #f6d365, #f6d365 20px, #fda085 20px, #fda085 40px);
+    background: url('https://images.unsplash.com/photo-1518717758536-85ae29034e08?auto=format&fit=crop&w=1200&q=80') no-repeat center center fixed;
+    background-size: cover;
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
