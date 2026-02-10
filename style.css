@@ -1,5 +1,20 @@
+.linkedin-link {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 16px;
+    background: #0077b5;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background 0.2s;
+}
+.linkedin-link:hover {
+    background: #005983;
+}
 body {
-    background: #f0f4f8;
+    background: url('https://images.unsplash.com/photo-1518717758536-85ae29034e08?auto=format&fit=crop&w=1200&q=80') no-repeat center center fixed;
+    background-size: cover;
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
